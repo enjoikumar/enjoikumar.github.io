@@ -1,25 +1,32 @@
 /**{
 	0;
 }*/
+html, body { 
+  min-height: 100%; 
+}
 body{
-	background-color: #FFCDD2;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
+	background: 
+              -webkit-linear-gradient(rgba(135, 60, 255, 0.4), rgba(135, 60, 255, 0.0) 80%),
+              -webkit-linear-gradient(-45deg, rgba(120, 155, 255, 0.9) 25%, rgba(255, 160, 65, 0.9) 75%);
 }
-.groupImg{
-	height: 300px;
-	width: 500px;
+h1{
+	text-align: center;
+	font-size: 50px;
+}	
+a{
+	
 }
-i {
-		border-radius: 4px;
-		cursor: pointer;
-		font-size: 44px;
-		margin: 0px 20px;
-		padding: 20px 30px;
-		transition: all 400ms ease-in-out;
+.four{
+	text-align: center;
+	/*display: inline-block;*/
+}
+.group{
+	text-align: center;
+	/*display: inline-block;*/
+}
+img{
+	width:304px;
+	height:228px;	
+}
 
-		&:hover {
-			background: #FFF;
-			color: #ca5549;
-		}
-	}
-}
