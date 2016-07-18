@@ -28,6 +28,9 @@ h2{
 	text-align: center;
 	/*display: inline-block;*/
 }
+.space{
+	text-align: center;
+}
 img{
 	width:304px;
 	height:228px;	
