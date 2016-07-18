@@ -5,17 +5,20 @@ html, body {
   min-height: 100%; 
 }
 body{
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	/*font-family: 'Yanone Kaffeesatz', sans-serif;*/
+	font-family: 'Lobster', cursive;
+	color:white;
 	background: 
-              -webkit-linear-gradient(rgba(135, 60, 255, 0.4), rgba(135, 60, 255, 0.0) 80%),
-              -webkit-linear-gradient(-45deg, rgba(120, 155, 255, 0.9) 25%, rgba(255, 160, 65, 0.9) 75%);
+		-webkit-linear-gradient(rgba(135, 60, 255, 0.4), rgba(135, 60, 255, 0.0) 80%),
+    -webkit-linear-gradient(-45deg, rgba(120, 155, 255, 0.9) 25%, rgba(255, 160, 65, 0.9) 75%);
 }
 h1{
 	text-align: center;
 	font-size: 50px;
 }	
-a{
-	
+h2{
+	text-align: center;
+	margin-top: 20px;
 }
 .four{
 	text-align: center;
@@ -29,4 +32,6 @@ img{
 	width:304px;
 	height:228px;	
 }
-
+footer{
+	text-align: center;
+}
