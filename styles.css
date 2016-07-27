@@ -1,12 +1,12 @@
 /* Typography and Type Color*/
 h1, h2, h3, h4 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Pattaya', sans-serif;
   font-weight: 400;
   margin: 0;
   color: #333333;
 }
 body, p, a, li {
-  font-family: 'Pattaya', sans-serif;
+  font-family: 'Shrikhand', cursive;
   font-weight: 300;
   font-size: 20px;
   color: #333333;
