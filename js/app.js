@@ -4,7 +4,8 @@ $( document ).ready(function() {
     var $developmentWrapper = $('.development-wrapper');
     var developmentIsVisible = false;
 
-    console.log("git")
+    // console.log("git")
+    console.log("working???")
 
 
   /* ####### HERO SECTION ####### */
