@@ -76,4 +76,12 @@ $( document ).ready(function() {
   }); // -- End window scroll --
 });
 
-//test case
+//trying to merg
+
+
+
+
+
+
+
+
