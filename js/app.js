@@ -76,7 +76,9 @@ $( document ).ready(function() {
   }); // -- End window scroll --
 });
 
-//trying to merg
+//trying to merge
+
+//lets see if it's going to merge
 
 
 
