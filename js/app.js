@@ -4,12 +4,12 @@ $( document ).ready(function() {
     var $developmentWrapper = $('.development-wrapper');
     var developmentIsVisible = false;
 
-<<<<<<< HEAD:js/app.js
-    console.log("git purposes")
-=======
-    // console.log("git")
-    console.log("working???")
->>>>>>> master:js/app.js
+// <<<<<<< HEAD:js/app.js
+//     console.log("git purposes")
+// =======
+//     // console.log("git")
+//     console.log("working???")
+// >>>>>>> master:js/app.js
 
 
   /* ####### HERO SECTION ####### */
