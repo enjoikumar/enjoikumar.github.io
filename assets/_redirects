@@ -1,0 +1,10 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://stage.nesassociates.com/* https://stage.gdit.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://stage-gdit.netlify.com/* https://stage.gdit.com/:splat 301!
+
+https://movetotheotherla.com/* https://stage.gdit.com/featured-career-paths/move-to-the-other-la/ 301!
+https://www.movetotheotherla.com/* https://stage.gdit.com/featured-career-paths/move-to-the-other-la/ 301!
