@@ -27,7 +27,7 @@ $( document ).ready(function() {
     /* ##### ABOUT MYSELF SECTION #### */
     if( bottom_of_window > ($aboutTitle.offset().top + $aboutTitle.outerHeight())){
       $('.about-myself .content h2').addClass('aboutTitleVisible');
-    } 
+    }
   /* ##### EXPERIENCE SECTION #### */
 
       // Check the location of each element hidden */
@@ -81,9 +81,4 @@ $( document ).ready(function() {
 //lets see if it's going to merge
 
 
-
-
-
-
-
-
+console.log('in the gh pages branch')
